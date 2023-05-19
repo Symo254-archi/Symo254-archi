@@ -1,3 +1,31 @@
+
+Hey , Welcome to my GitHub 👨‍💻❤️
+        
+
+📖 📚 Skilled in 📕 🖥️
+Languages:
+  HTML,
+  CSS3,
+  JavaScript,
+  Python, 
+  C.
+
+Web Development (Full-stack):
+     
+
+•Micro-Services:
+•Frontend/UI:
+   HTML5
+
+•Database:
+ MySQL
+
+Cloud/Dev-Ops:
+Others:
+Work Experience 🖱️ 🖥️ ⌨️
+Taltech Internal
+💼 Designation	🏢Organization	⏰Timeline
+Student	Multimedia University Of Kenya	Sept 2019 - April 2023
 - 👋 Hi, I’m @Symo254-archi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
