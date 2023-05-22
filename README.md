@@ -27,3 +27,21 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symo254-archi&show_icons=true&locale=en&layout=compact" alt="symo254-archi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symo254-archi&show_icons=true&locale=en" alt="symo254-archi" /></p>
+
+
+
+
+
+
+
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Symo254-archi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Symo254-archi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
